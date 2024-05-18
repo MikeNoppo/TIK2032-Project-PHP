@@ -1,3 +1,2 @@
-# TIK2032-Project-PHP
-
-Repositori project TIK2032 - [Michael Manoppo] [220211060271]
+# TIK2032-Project
+Repositori project PHP TIK2032 - [Michael Manoppo] [220211060271]
